@@ -1,20 +1,7 @@
 # ejbca-docker
 
-```
- ______________________________________
-/ System/3! System/3! See how it runs! \
-| See how it runs!                     |
-|                                      |
-| Its monitor loses so totally!        |
-|                                      |
-| It runs all its programs in RPG!     |
-|                                      |
-| It's made by our favorite monopoly!  |
-\ System/3!                            /
- --------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-```
+Configuración para arrancar una PKI local con Docker.
+
+## Referencias
+
+- [EJBCA - The Open-Source Certificate Authority (CA)](https://www.ejbca.org/)
